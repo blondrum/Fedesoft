@@ -2,10 +2,19 @@
 Inicio del proyecto
 
 ## SDR
-reciclaje a domicilio
+Sistema de Reciclaje a Domicilio
+
 ## Monitoreo
-Inicio del proyecto
+
+### Usuario:/Administrador/
+Como administrador se quiere monitorear la ruta y los puntos de deposito de un Recolector
+
+
+
 ## Calificación
-Inicio del proyecto
+
+Como cliente se quiere dar una calificación al servicio solicitado
+
 ## Deposito Final
-Inicio del proyecto
+
+Como administrador se quiere confirmar la llegada del Recolector al punto de deposito final
