@@ -3,18 +3,27 @@ Inicio del proyecto
 
 ## SDR
 Sistema de Reciclaje a Domicilio
-
+___
 ## Monitoreo
 
-### Usuario:/Administrador/
-Como administrador se quiere monitorear la ruta y los puntos de deposito de un Recolector
+**Usuario** Administrador
+**Puntos Estimados** 4
+
+**Descripción** El administrador quiere monitorear la ruta y los puntos de deposito de un Recolector
 
 
-
+___
 ## Calificación
 
-Como cliente se quiere dar una calificación al servicio solicitado
+**Usuario** Cliente
+**Puntos Estimados** 2
 
+**Descripción** Un cliente quiere dar una calificación al servicio solicitado
+
+___
 ## Deposito Final
 
-Como administrador se quiere confirmar la llegada del Recolector al punto de deposito final
+**Usuario** Administrador
+**Puntos Estimados** 3
+
+**Descripción**El administrador quiere confirmar la llegada del Recolector al punto de deposito final
